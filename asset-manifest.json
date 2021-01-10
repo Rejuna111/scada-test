@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.405260c0.chunk.css",
+    "main.js": "/static/js/main.beb1035b.chunk.js",
+    "main.js.map": "/static/js/main.beb1035b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f21b87c0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f21b87c0.js.map",
+    "static/js/2.298df63c.chunk.js": "/static/js/2.298df63c.chunk.js",
+    "static/js/2.298df63c.chunk.js.map": "/static/js/2.298df63c.chunk.js.map",
+    "static/js/3.97c5ccf5.chunk.js": "/static/js/3.97c5ccf5.chunk.js",
+    "static/js/3.97c5ccf5.chunk.js.map": "/static/js/3.97c5ccf5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.405260c0.chunk.css.map": "/static/css/main.405260c0.chunk.css.map",
+    "static/js/2.298df63c.chunk.js.LICENSE.txt": "/static/js/2.298df63c.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/Nunito-Bold.ebcbf44b.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f21b87c0.js",
+    "static/js/2.298df63c.chunk.js",
+    "static/css/main.405260c0.chunk.css",
+    "static/js/main.beb1035b.chunk.js"
+  ]
+}
